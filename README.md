@@ -1,4 +1,4 @@
-# Advance Keylogger
+# Advanced Keylogger
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/787260295860191254/1005556601823952946/logo.png" width=500/>
@@ -43,5 +43,3 @@ _Real-time, always-on antivirus/anti-malware protection is the gold standard for
 ## Disclaimer
 _This tool is for educational purposes only, the author do not endorse or promote any illegal activity and are not responsible for any damage done henceforth._
 
-## License
-_This program is free software; you can redistribute it and/or modify it under the terms of the MIT License (MIT). See [LICENSE](LICENSE) for more details._
